@@ -12,3 +12,7 @@ Live Preview: See your portfolio come to life instantly with a dynamic preview m
 Public Publishing: With a single click, publish your portfolio to a public web server, generating a unique, shareable link that anyone can access.
 
 Modern Design: Features a sleek dark background with a subtle, glowing dot pattern for a contemporary and engaging visual experience.
+ builted by keerthi shiva prasad
+ e mail: kirthishivaprasad@gmail.com
+ instagram: keerthi_shiva_prasad
+ linked in: keerthi shiva prasad
